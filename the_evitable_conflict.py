@@ -31,9 +31,6 @@ class SuperComputer:
 
 class HiveMind:
 
-    def upload_data_to_hive_mind(self):
-        ...
-
     def get_aggregate_spend(self) -> dict:
         ...
 
