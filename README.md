@@ -23,5 +23,5 @@ Turns out, your AI boss told you that now we not only have to deduplicate, but w
 ## Step 3: WRAP CLASS
 Now, you want to have the option to send out a notification to all the humans that the robots are watching their spend. Do this **using the WRAP CLASS METHOD strategy**. You can use the function in `TerribleClassMadeByYouTenYearsAgo`. But note that the class you will be "wrapping" is `WorldEconomyAggregator`. You can use either the decorator version of Wrap Class, or the non-decorator version. 
 
-# Step 4: SPROUT CLASS
+## Step 4: SPROUT CLASS
 Last step is, we want to add a cool header to our notification to all the humans. We're going to pretend that the code is so convoluted the only way we can add to this and make it testable is by **using the SPROUT CLASS strategy**. 
